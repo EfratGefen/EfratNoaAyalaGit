@@ -8,13 +8,18 @@
     "net7.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\dovim\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+=======
+    "C:\\Users\\שושנה\\.nuget\\packages\\": {}
+>>>>>>> a5aeea5d511c3928c1351f4fa1c71cfe07f1e2d5
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\dovim\\Documents\\שעורים\\שנה שנייה smile your life\\פרקטיקום\\GIT\\practice\\EfratNoaAyalaGit\\practice git\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
       "projectPath": "C:\\Users\\dovim\\Documents\\שעורים\\שנה שנייה smile your life\\פרקטיקום\\GIT\\practice\\EfratNoaAyalaGit\\practice git\\ConsoleApp1\\ConsoleApp1.csproj",
@@ -28,6 +33,16 @@
       "configFilePaths": [
         "C:\\Users\\dovim\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+      "projectUniqueName": "C:\\Users\\שושנה\\Documents\\פרקטיקום\\GitPractice\\EfratNoaAyalaGit\\practice git\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Users\\שושנה\\Documents\\פרקטיקום\\GitPractice\\EfratNoaAyalaGit\\practice git\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\שושנה\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\שושנה\\Documents\\פרקטיקום\\GitPractice\\EfratNoaAyalaGit\\practice git\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\שושנה\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> a5aeea5d511c3928c1351f4fa1c71cfe07f1e2d5
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,11 +73,11 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
+<<<<<<< HEAD
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
@@ -87,6 +102,9 @@
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+>>>>>>> a5aeea5d511c3928c1351f4fa1c71cfe07f1e2d5
       }
     }
   }

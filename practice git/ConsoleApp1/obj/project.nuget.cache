@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "oLQA9HxMNRDfN2pqqFCZpe5Juh6Ab8SGOIeiAOqojPxQk6/RXZW8DYIdD+S06DLsROWPa4QEJ8VLxY/KztZ/Dg==",
   "success": true,
   "projectFilePath": "C:\\Users\\dovim\\Documents\\שעורים\\שנה שנייה smile your life\\פרקטיקום\\GIT\\practice\\EfratNoaAyalaGit\\practice git\\ConsoleApp1\\ConsoleApp1.csproj",
@@ -9,5 +10,11 @@
     "C:\\Users\\dovim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\dovim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "07Dwlojv4y4nBgmpKYF/nT8vhhbMwuNzRIe+uSUDfFVpwLN9rt58gp43JrddNXGe/n8TpXv+5FJMucX9X2SnjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\שושנה\\Documents\\פרקטיקום\\GitPractice\\EfratNoaAyalaGit\\practice git\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> a5aeea5d511c3928c1351f4fa1c71cfe07f1e2d5
   "logs": []
 }
