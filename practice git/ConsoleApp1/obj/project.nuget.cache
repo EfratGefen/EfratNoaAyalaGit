@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zgZuzUGx1tqNLbaOtlujOoWHYjErlb8gkpgmIJZs8Vnh3HhKTJEvg3Fxd1d9dXBl4B93XDknwk/AlmoVeEVyaQ==",
+  "dgSpecHash": "oLQA9HxMNRDfN2pqqFCZpe5Juh6Ab8SGOIeiAOqojPxQk6/RXZW8DYIdD+S06DLsROWPa4QEJ8VLxY/KztZ/Dg==",
   "success": true,
-  "projectFilePath": "C:\\D\\תכנות אפרת\\practicumEMB\\practice git\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\dovim\\Documents\\שעורים\\שנה שנייה smile your life\\פרקטיקום\\GIT\\practice\\EfratNoaAyalaGit\\practice git\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dovim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\dovim\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\dovim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\dovim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
